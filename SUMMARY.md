@@ -1,0 +1,15 @@
+# Summary
+
+* [**Table of Contents**](table-of-contents.md)
+* [**1. Introduction**](1-introduction.md)
+* [**2. Overview of the Planning Module**](2-overview-of-the-planning-module.md)
+* [**3. Customize Views**](3-customize-views.md)
+* [**4. Manage Notifications**](4-manage-notifications.md)
+* [**5. Manage Searches**](5-manage-searches.md)
+* [**6. Manage Resources**](6-manage-resources.md)
+* [**7. Manage Customers**](7-manage-customers.md)
+* [**8. Manage Appointments**](8-manage-appointments.md)
+* [**9. Manage the Map**](9-manage-the-map.md)
+* [**10. Manage Route**](10-manage-route.md)
+* [**11. Glossary**](11-glossary.md)
+* [**12. Conclusion**](12-conclusion.md)
